@@ -1,0 +1,82 @@
+
+
+#useg1 {
+	position: absolute;
+font-size:45px;
+margin-bottom: 0px;
+padding-bottom: 20px;
+background-color: skyblue;
+color: black;
+}
+
+#useg2{
+	position: absolute;
+	font-size: 15px;
+	margin-bottom: 20px;
+	padding-top: 60px;
+	
+}
+#navbarSupportedContent{
+	font-size: 22px;
+	
+	padding-right: 10px;
+}
+
+.qwerty{
+font-size: 60px;
+cursor: pointer;
+}
+
+
+.rty{
+	cursor: pointer;
+	opacity: 1;
+	transition-property: opacity;
+transition-duration: 1s;
+
+}
+.rty:hover{
+color: darkblue;
+}
+
+.zurag{
+	width: 500px;
+	height: 520px;
+	margin: 1cm;
+	margin-left: 0px;
+	float: center;
+	border-radius: 50%
+
+}
+.zurag1{
+	position: absolute;
+	width: 180px;
+	height: 180px;
+	margin-left: 800px;
+	border-radius: 20%;
+	margin-bottom: 300px;
+	margin-top: 20px;
+}
+.container,
+.call{
+	background-color: whitesmoke;
+	display: flex;
+	justify-content: left;
+
+}
+.container1,
+.call1{font-weight: 600;
+	margin-left: 50px;
+	font-family: sans-serif;
+}
+.holboo{
+	margin-left: 60px;
+	font-size: 30px;
+	font-weight: 700;
+}
+.span1{
+	font-family: sans-serif;nt
+	font-size: 15px;
+font-weight: 400;
+padding-top: 25px;
+}
